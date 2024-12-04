@@ -19,4 +19,3 @@ Q8. Blue Blood College vs Not Average Usage by Season
 Q9. Count players by Season that have scored over 20ppg based on draft round
 Q10. Count players that Avg over 20ppg by Team
 Q11. NBA Player Height by Season
-![image](https://github.com/user-attachments/assets/4804d189-707f-4820-ab11-decd92a7c733)
