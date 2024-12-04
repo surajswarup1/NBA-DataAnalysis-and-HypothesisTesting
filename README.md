@@ -1,6 +1,6 @@
 # NBA Player Data Analysis Project
 
-Overview
+### Overview
 
 The goal of this project was to answer a few questions regarding a dataset to come up with the most informative and insightful takeaways I could find. In the field of analytics, often times we are tasked with finding insights regarding a dataset we have never seen before, and this includes data cleaning, data manipulation, data visualization, and ultimately data analysis to best derive meaningful value. I used this dataset I found on Kaggle to simulate this real-world analytics problem that many of us deal with on a day-to-day basis. The code used to conduct this analysis is attached in this GitHub repository.
 
