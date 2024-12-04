@@ -8,7 +8,7 @@ As per Kaggle, this dataset contains over two decades of data on each player who
  
 Because business case scenarios require both easily digestible information and actionable insights, I aimed to answer the following questions with further explanations as to why I felt they were important questions to tackle:
 
-Q1. Count Number of USA Born vs Non-USA Born Players by Season <br />
+Q1. Count Number of USA Born vs Non-USA Born Players by Season <br/>
 Q2. Highest PPG of USA Born vs Non-USA Born Players by Season
 Q3. Average PPG of USA Born vs Non-USA Born Players by Season
 Q4. Average age of Players by NBA conference and by Season
