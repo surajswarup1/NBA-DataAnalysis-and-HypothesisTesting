@@ -7,7 +7,6 @@ insightful takeaways I could find. In the field of analytics, often times we are
 a dataset we have never seen before, and this includes data cleaning, data manipulation, data visualization, and ultimately 
 data analysis to best derive meaningful value. I used this dataset I found on Kaggle to simulate this real-world analytics 
 problem that many of us deal with on a day-to-day basis. The code used to conduct this analysis is attached in this GitHub repository.
-
  
 Because business case scenarios require both easily digestible information and actionable insights, I aimed to answer the 
 following questions with further explanations as to why I felt they were important questions to tackle:
