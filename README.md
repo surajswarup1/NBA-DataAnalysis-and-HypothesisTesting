@@ -9,13 +9,13 @@ As per Kaggle, this dataset contains over two decades of data on each player who
 Because business case scenarios require both easily digestible information and actionable insights, I aimed to answer the following questions with further explanations as to why I felt they were important questions to tackle:
 
 Q1. Count Number of USA Born vs Non-USA Born Players by Season <br/>
-Q2. Highest PPG of USA Born vs Non-USA Born Players by Season
-Q3. Average PPG of USA Born vs Non-USA Born Players by Season
-Q4. Average age of Players by NBA conference and by Season
-Q5. Count players that avg over 20ppg by conference and by Season
-Q6. Blue Blood College vs Not PPG by Season
-Q7. Count of Blue Blood College vs Not Blue Blood College Players by Draft Position
-Q8. Blue Blood College vs Not Average Usage by Season
-Q9. Count players by Season that have scored over 20ppg based on draft round
-Q10. Count players that Avg over 20ppg by Team
-Q11. NBA Player Height by Season
+Q2. Highest PPG of USA Born vs Non-USA Born Players by Season <br/>
+Q3. Average PPG of USA Born vs Non-USA Born Players by Season <br/>
+Q4. Average age of Players by NBA conference and by Season <br/>
+Q5. Count players that avg over 20ppg by conference and by Season <br/>
+Q6. Blue Blood College vs Not PPG by Season <br/>
+Q7. Count of Blue Blood College vs Not Blue Blood College Players by Draft Position <br/>
+Q8. Blue Blood College vs Not Average Usage by Season <br/>
+Q9. Count players by Season that have scored over 20ppg based on draft round <br/>
+Q10. Count players that Avg over 20ppg by Team <br/>
+Q11. NBA Player Height by Season <br/>
