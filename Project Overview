@@ -1,7 +1,3 @@
-NBA Player Data Analysis Project
-
-Overview
-
 The goal of this project was to answer a few questions on a dataset to come up with the most informative and 
 insightful takeaways I could find. In the field of analytics, often times we are tasked with finding insights regarding 
 a dataset we have never seen before, and this includes data cleaning, data manipulation, data visualization, and ultimately 
@@ -22,4 +18,3 @@ Q8. Blue Blood College vs Not Average Usage by Season
 Q9. Count players by Season that have scored over 20ppg based on draft round
 Q10. Count players that Avg over 20ppg by Team
 Q11. NBA Player Height by Season
-
